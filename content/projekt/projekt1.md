@@ -1,12 +1,13 @@
 +++
+
 widget = "hero"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 weight = 10  # Order that this section will appear
 active = true
 
-title = "ZEPAK"
+title = "Über das Projekt"
 
-hero_media = "karten-vorschau.png"
+hero_media = "logos/zepak.png"
 
 [design.background]
 # Apply a background color, gradient, or image.
@@ -15,7 +16,7 @@ hero_media = "karten-vorschau.png"
 #   Any HTML color name or Hex value is valid.
 
 # Background color.
-# color = "navy"
+ color = "white"
 
 # Background gradient.
 # gradient_start = "#4bb4e3"
@@ -31,17 +32,16 @@ hero_media = "karten-vorschau.png"
 # Text color (true=light or false=dark).
 # text_color_light = true
 
-
-[cta]
-  url = "atlas"
-  label = "Zum Atlas"
-  icon_pack = "fas"
-  icon = "link"
-
 +++
 
-<h1>Der neue Zecken-Atlas für Deutschland.</h1>
-Wo kommen welche Zecken vor?
-Welche neuen Zecken fühlen sich klimabedingt bei uns wohl
-und welche Krankheiten können sie übertragen? Diese und weitere
-Fragen wollen wir mit Ihrer Hilfe in diesem Projekt beantworten.
+Das Akronym ZePaK bedeutet **Ze**cken und ihre **Pa**thogene im **K**limawandel. Es wird gefördert vom Bundesministerium für Gesundheit und durchgeführt am Robert Koch-Institut.
+
+<div class="row">
+  <div class="col-md" style="align-self: center">
+    <img src="../media/logos/bmg.jpg">
+  </div>
+  <div class="col-md" style="align-self: center">
+    <img src="../media/logos/rki.png">
+  </div>
+</div>
+

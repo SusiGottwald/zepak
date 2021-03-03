@@ -1,12 +1,13 @@
 +++
+
 widget = "hero"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 weight = 10  # Order that this section will appear
 active = true
 
-title = "ZEPAK"
+title = "Deutschlands neuer Zecken-Atlas"
 
-hero_media = "karten-vorschau.png"
+hero_media = "logos/zepak.png"
 
 [design.background]
 # Apply a background color, gradient, or image.
@@ -15,7 +16,7 @@ hero_media = "karten-vorschau.png"
 #   Any HTML color name or Hex value is valid.
 
 # Background color.
-# color = "navy"
+ color = "white"
 
 # Background gradient.
 # gradient_start = "#4bb4e3"
@@ -31,17 +32,15 @@ hero_media = "karten-vorschau.png"
 # Text color (true=light or false=dark).
 # text_color_light = true
 
-
-[cta]
-  url = "atlas"
-  label = "Zum Atlas"
-  icon_pack = "fas"
-  icon = "link"
-
 +++
 
-<h1>Der neue Zecken-Atlas für Deutschland.</h1>
-Wo kommen welche Zecken vor?
-Welche neuen Zecken fühlen sich klimabedingt bei uns wohl
-und welche Krankheiten können sie übertragen? Diese und weitere
-Fragen wollen wir mit Ihrer Hilfe in diesem Projekt beantworten.
+Das Robert Koch-Institut sammelt seit vielen Jahren regelmäßig Zecken und untersucht sie auf Krankheiten.
+Wo wir welche Zecken mit welchen Krankheiten gefunden haben, können Sie auf dem Zecken-Atlas sehen. 
+
+**Sie können den Zecken-Atlas mitgestalten!**
+
+## Machen auch Sie mit: Senden Sie uns gefundene Zecken
+
+Wie das genau geht, erfahren Sie auf der Seite [Zecke einsenden](../einsenden). Ihre
+gefundenen Zecken werden untersucht und in unserer Datenbank gespeichert. Sie sind dann hier im Zecken-Atlas sichtbar.
+Wenn Sie wünschen, sogar mit Ihrem selbstgewählten Spitznamen. 
