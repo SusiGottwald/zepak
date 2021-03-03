@@ -55,7 +55,7 @@
 
 [[main]]
   name = "Braune Hundezecke"
-  url = "zeckenarten/hundezecke"
+  url = "zeckenarten/braune-hundezecke"
   weight = 55
   parent = "arten"
 
