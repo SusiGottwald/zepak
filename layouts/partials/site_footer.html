@@ -1,0 +1,29 @@
+<footer class="site-footer">
+
+  <div class="row">
+    <div class="col-md-3 powered-by" style="align-self: center;">
+        {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
+
+    </div>
+    <div class="col-md-6" style="align-self: center;">
+      {{ partial "footer_menu" . }}
+
+      {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+      <p class="powered-by">
+        {{ with site.GetPage "privacy.md" }}
+        {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+        {{ end }}
+        {{ with site.GetPage "terms.md" }}
+        {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
+        {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+        {{ end }}
+      </p>
+      {{ end }}
+    </div>
+    <div class="col-md-3">
+      {{ $logo := (partial "functions/get_logo-white" (dict "constraint" "max_height" "size" 150)) }}
+      <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
+    </div>
+  </div>
+
+</footer>
