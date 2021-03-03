@@ -3,32 +3,115 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-#[[main]]
-#  name = "Home"
-#  url = "/"
-#  weight = 10
+[[main]]
+  name = "Home"
+  url = "/"
+  weight = 10
 
 [[main]]
-  name = "News"
-  url = "post"
+  name = "Atlas"
+  url = "atlas/"
   weight = 20
 
 [[main]]
-  name = "People"
-  url = "people"
+  name = "Projekt"
+  url = "projekt/"
   weight = 30
 
 [[main]]
-  name = "Events"
-  url = "event"
+  name = "Zecke einsenden"
+  url = "einsenden/"
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "publication"
+  name = "Zeckenarten"
+  identifier = "arten"
+  url = "zeckenarten"
   weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "contact"
+  name = "Holzbock"
+  parent = "arten"
+  url = "zeckenarten/holzbock"
+  weight = 51
+
+[[main]]
+  name = "Auwaldzecke"
+  url = "zeckenarten/auwaldzecke"
+  weight = 52
+  parent = "arten"
+
+[[main]]
+  name = "Hyalomma"
+  url = "zeckenarten/hyalomma"
+  weight = 53
+  parent = "arten"
+
+[[main]]
+  name = "Reliktzecke"
+  url = "zeckenarten/reliktzecke"
+  weight = 54
+  parent = "arten"
+
+[[main]]
+  name = "Braune Hundezecke"
+  url = "zeckenarten/hundezecke"
+  weight = 55
+  parent = "arten"
+
+[[main]]
+  name = "Krankheiten"
+  url = "krankheiten"
+  identifier = "krankheiten"
   weight = 60
+
+[[main]]
+  name = "Borreliose"
+  url = "krankheiten/borreliose"
+  weight = 61
+  parent = "krankheiten"
+
+[[main]]
+  name = "FSME"
+  url = "krankheiten/fsme"
+  weight = 62
+  parent = "krankheiten"
+
+[[main]]
+  name = "Rickettsiosen"
+  url = "krankheiten/rickettsiosen"
+  weight = 63
+  parent = "krankheiten"
+
+[[main]]
+  name = "Tularämie"
+  url = "krankheiten/tularaemie"
+  weight = 64
+  parent = "krankheiten"
+
+[[main]]
+  name = "Q-Fieber"
+  url = "krankheiten/q-fieber"
+  weight = 65
+  parent = "krankheiten"
+
+[[footer]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[footer]]
+  name = "Atlas"
+  url = "atlas/"
+  weight = 20
+
+[[footer]]
+  name = "Projekt"
+  url = "projekt/"
+  weight = 30
+
+[[footer]]
+  name = "Zecke einsenden"
+  url = "einsenden/"
+  weight = 40
+
