@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: /zecke-bg2.png
+    image: "zecke-bg2.png"
     image_darken: 0
     image_parallax: true
     image_position: center

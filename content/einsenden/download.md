@@ -1,6 +1,6 @@
 +++
 # Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
@@ -33,17 +33,30 @@ image_parallax = false  # Use a fun parallax-like fixed background effect? true/
 # Text color (true=light or false=dark).
 text_color_light = true
 
-# Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
-#   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "/media/einsenden/zepak_einsendung.pdf"
-  label = "Einsendeschreiben"
-  icon_pack = "fas"
-  icon = "download"
-
 +++
 
 **An dieser Stelle können Sie unsere Materialien bei Interesse herunterladen.**
 
-<a href="/media/einsenden/anleitung_zepak_hq.pdf" class="btn btn-light btn-lg mb-3 mb-md-1" style="text-decoration:none;"><i class="fas fa-download pr-1" aria-hidden="true"></i>Flyer: Zecke einsenden</a>
+Einfach anklicken und Speichern.
+
+<div class="row">
+<div class="col-md-4">
+
+**Einsendeschreiben**
+
+<a href="/media/einsenden/zepak_einsendung.pdf" style="text-decoration:none;">
+<img style="margin-top: 30px; width:200px" src="/media/einsenden/einsendeschreiben.png"></a>
+
+</div>
+
+<div class="col-md-4">
+
+**Flyer**
+
+<a href="/media/einsenden/anleitung_zepak_hq.pdf" style="text-decoration:none;">
+<img style="margin-top: 30px; width:200px" src="/media/einsenden/anleitung_zepak.png"></a>
+</div>
+
+</div>
+
+
