@@ -69,6 +69,28 @@
 
   {{ end }}
 
+  {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") (site.GetPage "accessibility.md") }}
+
+    {{ with site.GetPage "privacy.md" }}
+    <li class="nav-item">
+      {{ printf "<a class=\"nav-link\" href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    </li>
+    {{ end }}
+    {{ with site.GetPage "terms.md" }}
+
+    <li class="nav-item">
+      {{ printf "<a class=\"nav-link\" href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    </li>
+    {{ end }}
+    {{ with site.GetPage "accessibility.md" }}
+
+    <li class="nav-item">
+      {{ printf "<a class=\"nav-link\" href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    </li>
+    {{ end }}
+
+  {{ end }}
+
   {{ if site.Menus.main_right | and (eq $align_menu "l") }}
 </ul>
 {{ end }}

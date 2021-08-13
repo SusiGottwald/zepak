@@ -39,15 +39,14 @@ Der Name ZePaK bedeutet <b>Ze</b>cken und ihre <b>Pa</b>thogene im <b>K</b>limaw
 gefördert vom Bundesministerium für Gesundheit und durchgeführt am Robert Koch-Institut.
 [Mehr über das Projekt](/projekt/).
 
-
 <div class="row">
   <div class="col-md" style="align-self: center">
-    <img src="media/logos/zepak.png">
+    {{< figure src="logo_zepak.png" caption="" numbered="false" >}}
   </div>
   <div class="col-md" style="align-self: center">
-    <img src="media/logos/bmg.jpg">
+    {{< figure src="logo_bmg.jpg" caption="" numbered="false" >}}
   </div>
   <div class="col-md" style="align-self: center">
-    <img src="media/logos/rki.png">
+    {{< figure src="logo_rki.png" caption="" numbered="false" >}}
   </div>
 </div>

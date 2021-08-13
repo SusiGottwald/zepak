@@ -26,7 +26,7 @@ content:
       captcha: true
   
 design:
-  columns: '1'
+  columns: '2'
   #background:
   #  color: "#5F93C4"
   #  text_color_light: true

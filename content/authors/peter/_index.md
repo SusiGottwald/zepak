@@ -12,7 +12,7 @@ cite_author: true
 superuser: false
 
 # Role/position
-role: Wissenschaftler und Zecken-Experte
+role: Project Lead
 
 # Organizations/Affiliations
 organizations:
@@ -23,19 +23,16 @@ organizations:
 bio: 
 
 interests:
-- one
-- two
-- three
+- ticks
+- tick-borne pathogens
+- diagnostic methods
 
 education:
   courses:
-  - course: MSc in xxx
-    institution: Humboldt University of Berlin
-    year: 2021
-  - course: BSc in xxx
-    institution: Humboldt University of Berlin
-    year: 2018
-
+  - course: Diplom in Biology
+    institution: university of M�nster
+    year: 2005
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

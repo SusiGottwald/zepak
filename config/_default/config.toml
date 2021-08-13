@@ -44,9 +44,20 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
   categories = "/category/:slug/"
   publication_types = "/publication-type/:slug/"
 
+# Troubleshooting: "Error: from config: failed to resolve output format "headers" from site config"
+# Temporarily remove "WebAppManifest", "headers", "redirects" from below home output field
+# Then run hugo mod clean, hugo mod get -u ./..., hugo mod tidy
+
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects" ]
   section = [ "HTML", "RSS" ]
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
 
 # Configure the Markdown renderer.
 [markup]
