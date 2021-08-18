@@ -12,11 +12,11 @@ cite_author: true
 superuser: false
 
 # Role/position
-role: Project Lead
+role: Wissenschaftlicher Leiter
 
 # Organizations/Affiliations
 organizations:
-- name: Robert Koch Institute
+- name: Robert Koch-Institut
   url: "http://www.rki.de"
 
 # Short bio (displayed in user profile at end of posts)
@@ -65,4 +65,7 @@ user_groups:
 - ""
 ---
 
-Peter ....
+Peter führt die regelmäßigen Zeckensammlungen in Berlin und Brandenburg durch.
+Er leitet die Informationsveranstaltungen vor-Ort (z.B. in den Wald-Kitas) und bietet auch online Seminare
+zu Gefahren von Zecken und zum Schutz vor Zeckenbissen an. Peter und sein Team untersuchen die
+die gesammelten und eingesendeten Zecken und speisen mit diesen Ergebnissen den Zeckenatlas.

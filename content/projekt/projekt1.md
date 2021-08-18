@@ -7,7 +7,7 @@ active = true
 
 title = "Über das Projekt"
 
-hero_media = "logos/zepak.png"
+hero_media = "logo_zepak.png"
 
 [design.background]
 # Apply a background color, gradient, or image.
@@ -38,10 +38,10 @@ Das Akronym ZePaK bedeutet **Ze**cken und ihre **Pa**thogene im **K**limawandel.
 
 <div class="row">
   <div class="col-md" style="align-self: center">
-    <img src="../media/logos/bmg.jpg">
+    {{< figure src="logo_bmg.jpg" caption="" numbered="false" >}}
   </div>
   <div class="col-md" style="align-self: center">
-    <img src="../media/logos/rki.png">
+    {{< figure src="logo_rki.png" caption="" numbered="false" >}}
   </div>
 </div>
 

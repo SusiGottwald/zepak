@@ -12,11 +12,11 @@ cite_author: true
 superuser: false
 
 # Role/position
-role: Project Lead
+role: Initiator
 
 # Organizations/Affiliations
 organizations:
-- name: Robert Koch Institute
+- name: Robert Koch-Institut
   url: "http://www.rki.de"
 
 # Short bio (displayed in user profile at end of posts)

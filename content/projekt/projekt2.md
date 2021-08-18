@@ -5,9 +5,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Ursache: Klimawandel"
+title = "Ursache: Klimawandel?"
 
-# Hero image (optional). Enter filename of an image in the `static/media/` folder.
+# Hero image (optional). Enter filename of an image in the `assets/media/` folder.
 hero_media = ""
 
 [design.background]
