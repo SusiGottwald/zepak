@@ -27,9 +27,9 @@ bio: Ich bin interessiert an Mobilität und wie sich Menschen bewegen sowie mobi
 
 # interests: optional
 interests:
-- Mobilität
-- Netzwerkanalyse
-- Webdesign und Frontend Entwicklung
+- Webdesign, Frontend Entwicklung
+- Visualisierung von Big Data
+- Mobilität, Netzwerkanalyse
 
 education:
   courses:
@@ -73,7 +73,11 @@ user_groups:
 - ""
 ---
 
-Susi übernimmt das Projektmanagement der Projekte der Forschungsgruppe P4 am RKI.
-Bei ZePaK kümmert sie sich um die technische Umsetzung des Zecken-Atlas.
+Susi übernimmt das Projektmanagement für ZEPAK seit Juni 2021. Ansonsten koordiniert sie noch die Forschungsgruppe P4
+von Dirk Brockmann am RKI.
+
+Bei ZEPAK kümmert sie sich außerdem um die technische Umsetzung des Zecken-Atlas, also die Visualisierung der Zecken-Daten
+sowie der Datenhaltung im Hintergrund. 
+
 Sie ist Informatikerin und arbeitete als Entwicklerin, Projektmanagerin und zuletzt als Produktmanagerin.
 Sie kam im Juni 2020 während der Corona Pandemie ans RKI.

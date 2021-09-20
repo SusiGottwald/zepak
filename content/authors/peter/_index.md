@@ -23,14 +23,14 @@ organizations:
 bio: 
 
 interests:
-- ticks
-- tick-borne pathogens
-- diagnostic methods
+- Zecken
+- Zecken-übertragene Pathogene
+- Diagnostische Methoden
 
 education:
   courses:
-  - course: Diplom in Biology
-    institution: university of M�nster
+  - course: Diplom in Biologie
+    institution: Westfälische Wilhelms-Universität Münster
     year: 2005
     
 # Social/Academic Networking
@@ -66,6 +66,8 @@ user_groups:
 ---
 
 Peter führt die regelmäßigen Zeckensammlungen in Berlin und Brandenburg durch.
-Er leitet die Informationsveranstaltungen vor-Ort (z.B. in den Wald-Kitas) und bietet auch online Seminare
-zu Gefahren von Zecken und zum Schutz vor Zeckenbissen an. Peter und sein Team untersuchen die
-die gesammelten und eingesendeten Zecken und speisen mit diesen Ergebnissen den Zeckenatlas.
+Er leitet die Informationsveranstaltungen vor-Ort (z.B. in den Wald-Kitas) und bietet auch Online-Seminare
+über Gefahren von Zecken und zum Schutz vor Zeckenbissen an.
+
+Peter und sein Team untersuchen die gesammelten und eingesendeten Zecken morphologisch. Die Ergebnisse daraus 
+bilden die Grundlage für den Zecken-Atlas.
