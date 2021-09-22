@@ -44,8 +44,8 @@ Einfach anklicken und Speichern.
 
 **Einsendeschreiben**
 
-<a href="/media/einsenden/begleitbogen_zepak.pdf" style="text-decoration:none;">
-{{< figure src="/einsenden/begleitbogen_zepak.png" >}}
+<a href="/media/download/begleitbogen_zepak.pdf" style="text-decoration:none;">
+{{< figure src="/download/begleitbogen_zepak.png" >}}
 </a>
 
 </div>
@@ -54,8 +54,8 @@ Einfach anklicken und Speichern.
 
 **Anleitung**
 
-<a href="/media/einsenden/anleitung_zepak_hq.pdf" style="text-decoration:none;">
-{{< figure src="/einsenden/anleitung_zepak.png" >}}
+<a href="/media/download/anleitung_zepak_hq.pdf" style="text-decoration:none;">
+{{< figure src="/download/anleitung_zepak.png" >}}
 </a>
 </div>
 
@@ -63,8 +63,8 @@ Einfach anklicken und Speichern.
 
 **Flyer Web**
 
-<a href="/media/zepak-flyer-digital.pdf" style="text-decoration:none;">
-{{< figure src="flyer-web.png" >}}
+<a href="/media/download/zepak-flyer-digital.pdf" style="text-decoration:none;">
+{{< figure src="/download/flyer-web.png" >}}
 </a>
 </div>
 
@@ -72,8 +72,8 @@ Einfach anklicken und Speichern.
 
 **Flyer Print**
 
-<a href="/media/zepak-flyer-analog.pdf" style="text-decoration:none;">
-{{< figure src="flyer-print.png" >}}
+<a href="/media/download/zepak-flyer-analog.pdf" style="text-decoration:none;">
+{{< figure src="/download/flyer-print.png" >}}
 </a>
 </div>
 
