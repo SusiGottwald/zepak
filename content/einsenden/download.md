@@ -44,9 +44,9 @@ Einfach anklicken und Speichern.
 
 **Einsendeschreiben**
 
-<a href="/media/download/begleitbogen_zepak.pdf" style="text-decoration:none;">
-{{< figure src="/download/begleitbogen_zepak.png" >}}
-</a>
+{{% staticref "download/begleitbogen_zepak.pdf" "newtab" %}}
+{{< figure src="download/begleitbogen_zepak.png" >}}
+{{% /staticref %}}
 
 </div>
 
@@ -54,27 +54,27 @@ Einfach anklicken und Speichern.
 
 **Anleitung**
 
-<a href="/media/download/anleitung_zepak_hq.pdf" style="text-decoration:none;">
-{{< figure src="/download/anleitung_zepak.png" >}}
-</a>
+{{% staticref "download/anleitung_zepak_hq.pdf" "newtab" %}}
+{{< figure src="download/anleitung_zepak.png" >}}
+{{% /staticref %}}
 </div>
 
 <div class="col-md-3">
 
 **Flyer Web**
 
-<a href="/media/download/zepak-flyer-digital.pdf" style="text-decoration:none;">
-{{< figure src="/download/flyer-web.png" >}}
-</a>
+{{% staticref "download/zepak-flyer-digital.pdf" "newtab" %}}
+{{< figure src="download/flyer-web.png" >}}
+{{% /staticref %}}
 </div>
 
 <div class="col-md-3">
 
 **Flyer Print**
 
-<a href="/media/download/zepak-flyer-analog.pdf" style="text-decoration:none;">
-{{< figure src="/download/flyer-print.png" >}}
-</a>
+{{% staticref "download/zepak-flyer-analog.pdf" "newtab" %}}
+{{< figure src="download/flyer-print.png" >}}
+{{% /staticref %}}
 </div>
 
 </div>

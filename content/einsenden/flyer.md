@@ -51,7 +51,7 @@ Zecke tot wirkt, kann sie noch leben und aus dem Umschlag heraus krabbeln.
 ## Schritt 3: Versenden
 
 Bitte drucken und füllen Sie das
-{{% staticref "/media/download/begleitbogen_zepak.pdf" "newtab" %}}Einsendeschreiben{{% /staticref %}} aus. 
+{{% staticref "download/begleitbogen_zepak.pdf" "newtab" %}}Einsendeschreiben{{% /staticref %}} aus. 
 
 Es enthält die notwendigen Angaben, die wir über die Zecke wissen müssen. Wir werden dann die Zecke untersuchen
 und sie in unsere Datenbank aufnehmen. So wird die Zecke später im Zecken-Atlas erscheinen.
