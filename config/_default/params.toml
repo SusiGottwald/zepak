@@ -149,6 +149,9 @@ footer_menu = {enable = true, align = "c", show_logo = false, highlight_active_l
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
 
+# show estimated time to read a blog post
+reading_time = false
+
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
 copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}

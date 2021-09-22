@@ -40,7 +40,7 @@ hero_media = "karten-vorschau.png"
 
 +++
 
-<h1>Der neue Zecken-Atlas für Deutschland.</h1>
+<h1>Der Zecken-Atlas für Deutschland.</h1>
 Wo kommen welche Zecken vor?
 Welche neuen Zecken fühlen sich klimabedingt bei uns wohl
 und welche Krankheiten können sie übertragen? Diese und weitere
