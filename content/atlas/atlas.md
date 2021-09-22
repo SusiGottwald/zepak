@@ -42,6 +42,10 @@ hero_media = ""
 
 +++
 
+<div class="atlasPlaceholder hidden">
+  {{< figure src="zeckenatlas-statisch.png" caption="Statische Ansicht des Zecken-Atlas" numbered="false" >}}
+</div>
+
 <div class='tableauPlaceholder' id='viz1614701194781' style='position: relative'>
 <noscript>
   <a href='#'>

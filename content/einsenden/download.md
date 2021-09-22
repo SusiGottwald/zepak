@@ -35,26 +35,46 @@ text_color_light = true
 
 +++
 
-**An dieser Stelle können Sie unsere Materialien bei Interesse herunterladen.**
+**An dieser Stelle können Sie unsere Materialien herunterladen.**
 
 Einfach anklicken und Speichern.
 
 <div class="row">
-<div class="col-md-4">
+<div class="col-md-3">
 
 **Einsendeschreiben**
 
-<a href="/media/einsenden/zepak_einsendung.pdf" style="text-decoration:none;">
-<img style="margin-top: 30px; width:200px" src="/media/einsenden/einsendeschreiben.png"></a>
+<a href="/media/einsenden/begleitbogen_zepak.pdf" style="text-decoration:none;">
+{{< figure src="/einsenden/begleitbogen_zepak.png" >}}
+</a>
 
 </div>
 
-<div class="col-md-4">
+<div class="col-md-3">
 
-**Flyer**
+**Anleitung**
 
 <a href="/media/einsenden/anleitung_zepak_hq.pdf" style="text-decoration:none;">
-<img style="margin-top: 30px; width:200px" src="/media/einsenden/anleitung_zepak.png"></a>
+{{< figure src="/einsenden/anleitung_zepak.png" >}}
+</a>
+</div>
+
+<div class="col-md-3">
+
+**Flyer Web**
+
+<a href="/media/zepak-flyer-digital.pdf" style="text-decoration:none;">
+{{< figure src="flyer-web.png" >}}
+</a>
+</div>
+
+<div class="col-md-3">
+
+**Flyer Print**
+
+<a href="/media/zepak-flyer-analog.pdf" style="text-decoration:none;">
+{{< figure src="flyer-print.png" >}}
+</a>
 </div>
 
 </div>

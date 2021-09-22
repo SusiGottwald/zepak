@@ -81,3 +81,47 @@ h1, h2, h3, h4, h5, h6 {
 #atlas {
   padding-top: 0 !important;
 }
+
+.home-section.blur {
+  filter: blur(5px);
+}
+.modal-header {
+  display: flex;
+  background-color: lightgrey;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem 1rem;
+  border-bottom: 1px solid #dee2e6;
+  border-top-left-radius: calc(0.3rem - 1px);
+  border-top-right-radius: calc(0.3rem - 1px);
+}
+.modal-title {
+  margin: 0;
+  font-weight: 800;
+}
+.modal-body {
+  position: relative;
+  flex: 1 1 auto;
+  padding: 1rem;
+  font-weight: 200;
+  font-size: small;
+}
+.modal-footer {
+  justify-content: center;
+}
+
+.atlasPlaceholder img {
+  width: 90%;
+}
+.tableauPlaceholder.hidden,
+.atlasPlaceholder.hidden,
+{
+  display: none !important;
+  visibility: hidden;
+}
+
+.tableauPlaceholder .visible,
+.atlasPlaceholder .visible {
+  display: inline-flex;
+  visibility: visible;
+}
