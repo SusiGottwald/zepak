@@ -12,7 +12,7 @@ cite_author: true
 superuser: false
 
 # Role/position
-role: Projektmanager
+role: Projekt Managerin
 
 # Organizations/Affiliations
 organizations:

@@ -12,30 +12,30 @@ cite_author: true
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Promotionsstudentin
 
 # Organizations/Affiliations
 organizations:
-- name: Humboldt University of Berlin
-- name: Robert Koch Institute
+- name: Humboldt Universität zu Berlin
+- name: Robert Koch-Institut
   url: "http://www.rki.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Digital Exposure Tracing
-- Spreading of Infectious Diseases
-- Biological Threats and Special Pathogens
+- Digitale Kontaktnachverfolgung
+- Ausbreitung von Infektionskrankheiten
+- Biologische Bedrohung und spezielle Pathogene
 
 
 education:
   courses:
-  - course: MSc in Biophysics
-    institution: Humboldt University of Berlin
+  - course: Master in Biophysik
+    institution: Humboldt Universität zu Berlin
     year: 2021
-  - course: BSc in Biophysics
-    institution: Humboldt University of Berlin
+  - course: Bachelor in Biophysik
+    institution: Humboldt Universität zu Berlin
     year: 2018
 
 # Social/Academic Networking
@@ -72,6 +72,10 @@ highlight_name: false
 user_groups:
 - ""
 ---
-Since January 2021, Angie has been working on her PhD thesis.
-She joined our team during the COVID-19 pandemic in April 2020 and submitted her master's thesis about digital exposure tracing and its impact on the pandemic's disease dynamics. Earlier, she worked on projects in experimental virology.
+Seit Januar 2021 arbeitet Angie an ihrer Promotion im Team von P4 (Brockmann).
+
+Sie kam im April 2020 während der COVID-19 Pandemie in das RKI-Team von P4 
+und reichte kurze Zeit später ihre Masterarbeit erfolgreich zum Thema "Digitale Kontaktnachverfolgung und die Effekte auf die Pandemie Dynamik".
+
+Sie unterstützte das ZEPAK Team bei der Recherche zu Zeckenarten und -krankheiten sowie der Aufbereitung für die Webseite.
 

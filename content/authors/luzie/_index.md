@@ -12,7 +12,7 @@ cite_author: true
 superuser: false
 
 # Role/position
-role: Projekt-Initiatorin, Beraterin
+role: Projekt Initiatorin, Beraterin
 
 # Organizations/Affiliations
 organizations:
