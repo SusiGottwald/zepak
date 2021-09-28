@@ -44,9 +44,9 @@ hero_media = "logo_zepak.png"
       <div class="modal-body">
         Um Ihnen unseren Zecken-Atlas anbieten zu können, verwenden wir zur Darstellung von Karten mit Ihrer
 Einwilligung den Dienstleister Mapbox mit Sitz in den USA. Ihre Einwilligung umfasst auch die Übermittlung
-von personenbezogenen Daten in die USA, die kein mit der der EU  vergleichbares Datenschutzniveau haben.
+von personenbezogenen Daten in die USA, die kein mit der der EU vergleichbares Datenschutzniveau haben.
 Sofern personenbezogene Daten in die USA übermittelt werden, besteht das Risiko, dass US-Behörden diese
-erfassen und analyisieren und das Betroffenenrechte nicht vollumfänglich durchgesetzt werden können.</br>
+erfassen und analysieren und dass Betroffenenrechte nicht vollumfänglich durchgesetzt werden können.</br>
         <p><b>Ihre Einwilligung ist freiwillig und jederzeit widerrufbar, allerdings können Sie bei
 Nichterteilung oder Widerruf der Einwilligung den Zecken-Atlas nicht nutzen.</b></br>
         <p>Weitere Informationen dazu finden Sie in unserer <a href="../privacy">Datenschutzerklärung</a>.

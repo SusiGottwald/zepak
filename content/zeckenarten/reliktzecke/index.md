@@ -1,6 +1,6 @@
 ---
 
-title: Reliktzecke
+title: Reliktzecke (Haemaphysalis concinna)
 summary: "Die Reliktzecke, ist in Deutschland nur an wenigen Orten gefunden worden."
 
 image:

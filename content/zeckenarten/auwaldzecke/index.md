@@ -1,6 +1,6 @@
 ---
 
-title: Auwaldzecke
+title: Auwaldzecke (Dermacentor reticulatus)
 summary: "Verbreitungsschwerpunkte in Deutschland sind der Osten und der Südwesten."
 
 image:

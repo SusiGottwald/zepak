@@ -1,6 +1,6 @@
 ---
 
-title: Braune Hundezecke
+title: Braune Hundezecke (Rhipicephalus sanguineus)
 summary: "Verbreitungsschwerpunkte in Deutschland sind der Osten und der Südwesten."
 
 image:

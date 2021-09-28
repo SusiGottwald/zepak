@@ -1,6 +1,6 @@
 ---
 
-title: Hyalomma-Zecke
+title: Hyalomma-Zecke (Hyalomma marginatum)
 summary: "Das große Interesse an dieser Zeckengattung rührt daher, dass sie als Vektor und Reservoir des Krim-Kongo-Virus, Erreger des Krim-Kongo-Hämorrhagischen Fiebers (CCHF), auftreten können."
 
 image:

@@ -1,6 +1,6 @@
 ---
 
-title: Holzbock
+title: Holzbock (Ixodes ricinus)
 summary: "Der Gemeine Holzbock ist die in Nordwest-Europa häufigste Zeckenspezies."
 
 image:
