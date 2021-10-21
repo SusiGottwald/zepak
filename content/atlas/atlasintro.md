@@ -1,6 +1,6 @@
 +++
 
-widget = "hero"  # See https://wowchemy.com/docs/page-builder/
+widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 weight = 10  # Order that this section will appear
 active = true
@@ -59,7 +59,7 @@ Nichterteilung oder Widerruf der Einwilligung den Zecken-Atlas nicht nutzen.</b>
   </div>
 </div>
 
-Das Robert Koch-Institut sammelt seit vielen Jahren regelmäßig Zecken und untersucht sie auf Krankheiten.
+Das Robert Koch-Institut sammelt seit vielen Jahren regelmäßig Zecken und untersucht sie auf Pathogene.
 Wo wir welche Zecken mit welchen Krankheiten gefunden haben, können Sie auf dem Zecken-Atlas sehen. 
 
 **Sie können den Zecken-Atlas mitgestalten!**
