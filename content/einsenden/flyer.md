@@ -55,6 +55,14 @@ Bitte drucken und füllen Sie das
 
 Es enthält die notwendigen Angaben, die wir über die Zecke wissen müssen. Wir werden dann die Zecke untersuchen
 und sie in unsere Datenbank aufnehmen. So wird die Zecke später im Zecken-Atlas erscheinen.
+
+### Adresse:
+
+Robert Koch-Institut  
+z.Hd. Dr. Peter Hagedorn    
+Seestraße 10    
+13353 Berlin
+
 </div>
 
 </div>
