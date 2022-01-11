@@ -50,6 +50,8 @@ org_name = ""
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "ZePaK - Zecken und ihre Pathogene im Klimawandel. Schicken Sie dem RKI Ihre gefundenen Zecken und sehen Sie, wo in Deutschland welche Zecken vorkommen."
 
+keywords = "Zecken-Atlas, Zeckenatlas, Zecke, FSME durch Zecken, Borreliose, Holzbock, Schafzecke, Taubenzecke, Hyalomma, Auwaldzecke"
+
 ############################
 ## Site Features
 ############################
@@ -259,7 +261,7 @@ plugins_js  = ["custom"]
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
-  google_site_verification = "jobrjxxYJ1VMm59dnqvyvXj1OQs1KjPA2FSoN0ci0AQ"
+  google_site_verification = 'jobrjxxYJ1VMm59dnqvyvXj1OQs1KjPA2FSoN0ci0AQ'
 
 ############################
 ## Content Management System

@@ -46,13 +46,14 @@ hero_media = ""
   {{< figure src="zeckenatlas-statisch.png" caption="Statische Ansicht des Zecken-Atlas" numbered="false" >}}
 </div>
 
-<div class='tableauPlaceholder' id='viz1641216031396' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1641920281779' style='position: relative'>
 
 <object class='tableauViz'  style='display:none;'>
   <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
   <param name='embed_code_version' value='3' /> 
-  <param name='site_root' value='' />
+  <param name='path' value='shared&#47;9F6ZYWZH6' />
   <param name='name' value='Zepak-Zecken-Atlas&#47;Zecken-Atlas' />
+  <param name='static_image' value='9F&#47;9F6ZYWZH6&#47;1.png' />
   <param name='tabs' value='no' />
   <param name='toolbar' value='yes' />
   <param name='animate_transition' value='yes' />
@@ -67,7 +68,7 @@ hero_media = ""
 </div>                
 
 <script type='text/javascript'>                    
-var divElement = document.getElementById('viz1641216031396');                    
+var divElement = document.getElementById('viz1641920281779');                    
 var vizElement = divElement.getElementsByTagName('object')[0];                    
 if ( divElement.offsetWidth > 800 ) { 
   vizElement.style.width='1300px';

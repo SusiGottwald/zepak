@@ -34,14 +34,16 @@
 
   {{/* Generate Keywords. */}}
   {{ $keys := "" }}
-  {{ if site.Params.Keywords }}
-  {{ $keys = site.Params.Keywords }}
+  {{ if site.Params.keywords }}
+    {{ $keys = site.Params.keywords }}
   {{ else }}
-  {{ $keys = site.Params.Title }}
+    {{ $keys = site.Params.Title }}
   {{ end }}
   <meta name="keywords" content="{{ $keys }}" />
 
-  <meta name="google-site-verification" content="{{ site.Params.google_verification_code }}" />
+  {{ with site.Params.marketing.google_site_verification }}
+  <meta name="google-site-verification" content="{{ . }}" />
+  {{- end -}}
 
   {{/* Generate page description. */}}
   {{ $desc1 := "" }}
