@@ -11,14 +11,14 @@ Nordufer 20
 Vertreten durch den Präsidenten
 
 
-### Verantwortlich i. S. d. Rundfunkstaatsvertrages
+### Verantwortlich i. S. d. Medienstaatsvertrages
 
-**Dr. Luzie Verbeek**
+**Dr. Claudia Kohl**
 
-E-Mail: verbeekl@rki.de  
-Tel.: +49 (0) 30 18754 3294
+E-Mail: kohlc@rki.de  
+Tel.: +49 (0) 30 18754 2144
 
-OHCC: One Health - Climate Change  
+ZBS 1 - Zentrum für Biologische Gefahren & Spezielle Pathogene, Hochpathogene Viren  
 Robert Koch-Institut
 
 ### Realisierung, Konzeption, Design, Frontend-Programmierung
@@ -27,7 +27,7 @@ Robert Koch-Institut
 
 E-Mail: gottwalds@rki.de
 
-P4 - Projektgruppe 4 "Epidemiologische Modellierung von Infektionskrankheiten"   
+P4 - Epidemiologische Modellierung von Infektionskrankheiten 
 Robert Koch-Institut
 
 ### Haftungsausschluss
